@@ -1,7 +1,7 @@
 # Tâches réalisées
 
 
--Distinction des vlans
+-Distinction des vlans 
 -Changement de l'infrastrucutre physique et logique suite aux remarques de Monsieur Schalkjiwk 
 -Adressage des ip  (voir schéma physique)
 -Mettre en place les scripts de lancement de l'infrastrucure réseau ( ca arrive ) 
