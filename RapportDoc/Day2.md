@@ -13,6 +13,8 @@
 
 -VTP
 
+-Table d'adressage, table d'atttribution des vlans et des ports.
+
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 
