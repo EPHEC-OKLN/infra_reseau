@@ -9,13 +9,13 @@
 
 # Problèmes rencontrés (énnoncé du problème + solution)
 
--Pas de ssh
--Pas de vtp sur les switchs L2
+-Pas de ssh sur les L2 => utilisation de telnet
+-Pas de vtp sur les switchs L2.
+
 
 # Motivations des technologies/infrastructures utilisées
 
 # Remarques éventuelles
 
--Telnet pour les switchs L2 car pas de SSH
 
 # Sources (Important !)
