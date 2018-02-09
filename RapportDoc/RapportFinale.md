@@ -1,13 +1,13 @@
 # Tâches réalisées
 
--Schéma logique et physique ,
+-Schéma logique et physique.
 
 -Le site principal contient les services administration, formation, comptabilité, IT et marketing et le secondaire administration,
-formation et vente ,
+formation et vente.
 
--Le trafic a été séparé en 4 vlan : service, guest, user et management ,
+-Le trafic a été séparé en 4 vlan : service, guest, user et management.
 
--Plan d'adressage ,
+-Plan d'adressage.
 
 Les services ayant été implémenté sont :
 
