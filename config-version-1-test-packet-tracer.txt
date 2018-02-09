@@ -190,8 +190,7 @@ channel-group 1 mode active
 enable
 conf t
 hostname CSW02
-service password-encryption
-! – configuration de base-----
+! â€“ configuration de base-----
 !
 ip domain-name okln.ephec-ti.be
 crypto key generate rsa
@@ -372,7 +371,7 @@ enable
 conf t
 hostname SW01
 service password-encryption
-! – configuration de base 
+! â€“ configuration de base 
 !
 ip domain-name okln.ephec-ti.be
 crypto key generate rsa
@@ -396,7 +395,7 @@ line vty 0 4
   exec-timeout 3 30 
 !
 exit
-! - Création des VLANs
+! - CrÃ©ation des VLANs
 !
 !vlan database
 !vlan 10 name service
@@ -454,7 +453,7 @@ enable
 conf t
 hostname SW02
 service password-encryption
-! – configuration de base 
+! â€“ configuration de base 
 !
 ip domain-name okln.ephec-ti.be
 crypto key generate rsa
@@ -476,7 +475,7 @@ line vty 0 4
   transport input ssh
   exec time-out 3 30 
 !
-! - Création des VLANs
+! - CrÃ©ation des VLANs
 !
 !vlan database
 !vlan 10 name service
