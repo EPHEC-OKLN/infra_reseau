@@ -26,8 +26,8 @@ de ces 2 L3.
 
 Les difficultées principales pendant la semaine ont été :
 
--La première difficultée a été d’avoir un bon plan d’adressage.
--On a dû beaucoup revoir les schémas logique et physique vu que beaucoup de changements ont été fait les 2 premiers jours.
+-La première difficultée a été d’avoir un bon plan d’adressage ,
+-On a dû beaucoup revoir les schémas logique et physique vu que beaucoup de changements ont été fait les 2 premiers jours ,
 -Les 2 premiers jours, les switchs qui étaient à notre disposition ne nous permettaient pas d’implémenter tout ce que nous souhaitions mais ce problème a été résolu le 3ème  jour grâce à du nouveau matériel.
 
 
