@@ -370,7 +370,6 @@ hostname SW01
 enable
 conf t
 hostname SW01
-service password-encryption
 ! – configuration de base 
 !
 ip domain-name okln.ephec-ti.be
@@ -452,7 +451,6 @@ hostname SW02
 enable
 conf t
 hostname SW02
-service password-encryption
 ! – configuration de base 
 !
 ip domain-name okln.ephec-ti.be
@@ -464,7 +462,7 @@ banner login "Access for authorized users only !"
 service password-encryption
 username admin privilege 15 secret cisco
 ip ssh time-out 15
-ip ssh authentification-retries 3
+ip ssh authentication-retries 3
 line console 0
   password cisco
   logging synchronous
@@ -473,7 +471,7 @@ line console 0
 line vty 0 4
   login local
   transport input ssh
-  exec time-out 3 30 
+  exec-timeout 3 30 
 !
 ! - Création des VLANs
 !
