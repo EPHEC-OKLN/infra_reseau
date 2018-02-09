@@ -39,6 +39,8 @@ On aurait du mettre des access-list mais pour ne pas bloquer tout ceux occupé a
 
 On souhaitait ajouter un deuxième access-point qui aurait permis de séparer les guests et les users ,
 
+Wi-Fi  ssid:  Groupe-B                   mot de passe wifi :   oklnGroupeB2018
+
 
 # Sources (Important !)
 
