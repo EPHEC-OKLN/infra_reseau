@@ -4,6 +4,8 @@
 
 -Configuration de base sur les switchs pour avoir quelque chose de fonctionnel, une fois que la configuration était fonctionnelle, on rajoute HSRP ce qui a permis de finaliser l'infrastructure.
 
+-Ajout de ssh.
+
 -Ajout d'une access-List
 
 -Ajout d'etherchannel
