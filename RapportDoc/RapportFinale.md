@@ -1,6 +1,7 @@
 # Tâches réalisées
 
 -Schéma logique et physique ,
+
 -Le site principal contient les services administration, formation, comptabilité, IT et marketing et le secondaire administration,
 formation et vente ,
 
@@ -11,8 +12,8 @@ formation et vente ,
 Les services ayant été implémenté sont :
 
 -un point d’accès wifi sur le réseau interne, les invités externe peuvent en bénéficier ,
--La sécurisation/ redondance optimisée pour les serveurs, les services et les périphérique réseau ,
 
+-La sécurisation/ redondance optimisée pour les serveurs, les services et les périphérique réseau ,
 
 -ssh On a utilisé des clés de 2048 bits ,
 
@@ -35,8 +36,11 @@ de ces 2 L3 ,
 Les difficultées principales pendant la semaine ont été :
 
 -La première difficultée a été d’avoir un bon plan d’adressage ,
+
 -On a dû beaucoup revoir les schémas logique et physique vu que beaucoup de changements ont été fait les 2 premiers jours ,
--Les 2 premiers jours, les switchs qui étaient à notre disposition ne nous permettaient pas d’implémenter tout ce que nous souhaitions mais ce problème a été résolu le 3ème  jour grâce à du nouveau matériel.
+
+-Les 2 premiers jours, les switchs qui étaient à notre disposition ne nous permettaient pas d’implémenter tout ce que nous
+souhaitions mais ce problème a été résolu le 3ème  jour grâce à du nouveau matériel.
 
 
 # Motivations des technologies/infrastructures utilisées
@@ -56,7 +60,9 @@ Wi-Fi  ssid:  Groupe-B                   mot de passe wifi :   oklnGroupeB2018
 
 Au niveau de l'ensemble de la partie infra, ce fût intéressant car nous avons pu tester sur du vrai matériel
 ce qui se rapproche assez fortement par rapport aux cours habituels ,
+
 On a eu beaucoup de stress car l'infra devait être dispo au plus vite car les autres groupes dépendaient de nous surout que nous 
 avons du changer plusieurs fois les schémas ,
+
 Il y a eu une bonne ambiance dans le groupe et un bon rythme de travail.
 
