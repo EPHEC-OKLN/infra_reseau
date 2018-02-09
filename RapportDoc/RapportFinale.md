@@ -3,7 +3,9 @@
 -Schéma logique et physique ,
 -Le site principal contient les services administration, formation, comptabilité, IT et marketing et le secondaire administration,
 formation et vente ,
+
 -Le trafic a été séparé en 4 vlan : service, guest, user et management ,
+
 -Plan d'adressage ,
 
 Les services ayant été implémenté sont :
@@ -13,12 +15,18 @@ Les services ayant été implémenté sont :
 
 
 -ssh On a utilisé des clés de 2048 bits ,
+
 -VTP pruning qui permet de diminuer la bande passante ,
+
 -DNS ,
+
 -STP a été implémenté pour éviter les collisions sur le réseau ,
+
 -2 Switchs L3 qui permettent de ne pas avoir de SPOF au niveau des L3, on a utilisé HSRP qui a permis de choisir le prioritaire 
 de ces 2 L3 ,
+
 -Etherchannel permet d’économiser de la bande passante entre les 2 L3. Ca permet aux 2 liens de n’en former qu’un seul ,
+
 -OSPF est configuré pour le routage ,
 
 
